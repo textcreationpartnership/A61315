@@ -1,0 +1,447 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A breviary of alchemy, or, A commentary upon Sir George Ripley's recapitulation being a paraphrastical epitome of his twelve gates / written by Æyrenæus Philalethes ...</title>
+            <author>Philalethes, Eirenaeus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61315</idno>
+            <idno type="STC">Wing S5271</idno>
+            <idno type="STC">ESTC R567</idno>
+            <idno type="EEBO-CITATION">11943306</idno>
+            <idno type="OCLC">ocm 11943306</idno>
+            <idno type="VID">51301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 42:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A breviary of alchemy, or, A commentary upon Sir George Ripley's recapitulation being a paraphrastical epitome of his twelve gates / written by Æyrenæus Philalethes ...</title>
+                  <author>Philalethes, Eirenaeus.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Cooper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ripley, George, d. 1490?</term>
+               <term>Alchemy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51301:1"/>
+            <pb facs="tcp:51301:1" rendition="simple:additions"/>
+            <p>A Breviary of <hi>ALCHEMY;</hi> OR A COMMENTARY UPON Sir <hi>GEORGE RIPLEY'S</hi> RECAPITULATION: BEING A Paraphraſtical Epitome of his Twelve GATES.</p>
+            <p>Written by <hi>Aeyrenaeus Philalethes</hi> ANGLUS, COSMOPOLITA.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Cooper</hi> at the <hi>Pellican</hi> in <hi>Little Britain.</hi> MDCLXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51301:2"/>
+            <pb n="1" facs="tcp:51301:2"/>
+            <head>Sir <hi>George Ripley</hi>'s RECAPITULATION.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>FOr to bring this Treatiſe to a final end;</l>
+               <l>And briefly here to conclude theſe ſecrets all:</l>
+               <l>Diligently look thou, and to thy Figure at<g ref="char:EOLhyphen"/>tend,</l>
+               <l>Which doth in it contain theſe ſecrets great and ſmall:</l>
+               <l>And if thou it conceive, both Theorical and Practical,</l>
+               <l>By Figures and Colours, and by Scripture plain,</l>
+               <l>Which wittily conceived, thou mayeſt not work in vain.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Conſider firſt the Latitude of this precious Stone,</l>
+               <l>Beginning in the firſt ſide noted in the Weſt,</l>
+               <l>Where the red Man, and white Woman be made one,
+<pb n="2" facs="tcp:51301:3"/>
+Spouſed with the Spirit of life to live in love and reſt:</l>
+               <l>Earth and water equally proportion'd, that is best;</l>
+               <l>And one of the Earth is good, and of the Spirit Three,</l>
+               <l>Which Twelve to Four alſo of the Earth may be.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Three of the Wife, and one of the Man thou muſt take;</l>
+               <l>And the leſs of the Spirit there is in this Diſponſation,</l>
+               <l>The rather thy Calcination for certain ſhalt thou make:</l>
+               <l>Then forth into the North proceed by obſcu<g ref="char:EOLhyphen"/>ration</l>
+               <l>Of the red man and his white Wife called <hi>Eclypſation;</hi>
+               </l>
+               <l>Looſing them, and altering them betwixt Winter and Vere,</l>
+               <l>Into Water turning Earth, dark, and no<g ref="char:EOLhyphen"/>thing clear.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>From thence by Colours many one into the Eaſt aſcend,</l>
+               <l>Then ſhall the Moon be full, appearing by day-light:</l>
+               <l>
+                  <pb n="3" facs="tcp:51301:3"/>
+Then is ſhe paſſed Purgatory, and her courſe at an end:</l>
+               <l>There is the up-riſing of the Sun appearing white and bright;</l>
+               <l>There is Summer after Vere, and Day after Night:</l>
+               <l>Then Earth and Water which were black, be turned into Air,</l>
+               <l>And Clouds of darkneſs over-blown, and all appeareth fair.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>And as in the Weſt was the beginning of thy practice,</l>
+               <l>And the North the perfect mean of profound alteration:</l>
+               <l>So in the Eaſt after them is the beginning of ſpeculation.</l>
+               <l>But of this courſe up in the South the Sun maketh conſummation.</l>
+               <l>There be the Elements turned into Fire by Circulation.</l>
+               <l>Then to win to thy deſire, thou needst not be in doubt,</l>
+               <l>For the Wheel of our Philoſophy thou hast turn'd about.</l>
+            </lg>
+            <lg n="6">
+               <pb n="4" facs="tcp:51301:4"/>
+               <head>VI.</head>
+               <l>But yet about again 2 times turn thy wheel,</l>
+               <l>In which be comprehended all the ſecrets of our Philoſophy</l>
+               <l>In Chapters Twelve, made plain to thee, if thou conceive them well;</l>
+               <l>And all the ſecrets by and by of our lower Aſtronomy,</l>
+               <l>How thou ſhalt Calcine Bodies, perfect, diſ<g ref="char:EOLhyphen"/>ſolve, divide, and putrifie,</l>
+               <l>With perfect knowledg of all the Poles which in our Heaven been</l>
+               <l>Shining with Colours inexplicable, never were gayer ſeen.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>And this one ſecret concluſion know with<g ref="char:EOLhyphen"/>outen fail,</l>
+               <l>Our Red Man teyneth not, nor his Wife, until they teyned be;</l>
+               <l>Therefore if thou liſt thy ſelf by this craft to avail,</l>
+               <l>The Altitude of the Bodies bide, and ſhew out their profundity,</l>
+               <l>In every of thy Materials deſtroying the firſt Quality,</l>
+               <l>
+                  <pb n="5" facs="tcp:51301:4"/>
+And ſecondary Qualities more glorious in them repair anon;</l>
+               <l>And in one Glaſs, with one Reg'ment Four Natures turn to One.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Pale and black with falſe Citrine, unperfect White and Red,</l>
+               <l>The <hi>Peacock</hi>'s Feathers in Colours gay, the Rainbow, which ſhall over-go</l>
+               <l>The ſpotted <hi>Panther,</hi> the <hi>Lyon</hi> green, the <hi>Crow's Bill</hi> blew as Lead;</l>
+               <l>Theſe ſhall appear before the perfect White, and many other moe</l>
+               <l>Colours; And after the perfect white, gray and falſe Citrine alſo:</l>
+               <l>And after theſe, then ſhall appear the bloody red invariable;</l>
+               <l>Then hast thou a Medicine of the third or<g ref="char:EOLhyphen"/>der of his own kind multiplicable.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Thou muſt divide thy white <hi>Elixir</hi> into parts Two,</l>
+               <l>Before thou Rubifie, and into Glaſſes Two let them be done,</l>
+               <l>If thou wilt have the <hi>Elixirs</hi> for <hi>Sun</hi> and <hi>Moon,</hi> ſo do,</l>
+               <l>
+                  <pb n="6" facs="tcp:51301:5"/>
+With <hi>Mercury</hi> then them multiply unto great quantity ſoon:</l>
+               <l>And if thou hadst not at the beginning e<g ref="char:EOLhyphen"/>nough to ſill a Spoon,</l>
+               <l>Yet thou mayſt them ſo multiply, both the White, and the Red,</l>
+               <l>That if thou liv'st a Thouſand Years, they will ſtand thee in stead.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Have thou recourſe unto thy Wheel therefore, I counſel thee,</l>
+               <l>And ſtudy him well to know in each Chap<g ref="char:EOLhyphen"/>ter truly;</l>
+               <l>Meddle with no Fantaſtical Multiplyers; but let them be,</l>
+               <l>Which will thee flatter, and falſly ſay they are cunning in Philoſophy:</l>
+               <l>Do as I bid thee, then diſſolve thoſe fore<g ref="char:EOLhyphen"/>ſaid Baſes wittily,</l>
+               <l>And turn them into perfect Oyls with our true Water ardent</l>
+               <l>By Circulation, that muſt be done accord<g ref="char:EOLhyphen"/>ing to our intent.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Theſe Oyls will fix crude <hi>Mercury,</hi> and convert Bodies all</l>
+               <l>
+                  <pb n="7" facs="tcp:51301:5"/>
+Into perfect <hi>Sol</hi> and <hi>Lune</hi> when thou ſhalt make Projection:</l>
+               <l>That Oyly Subſtance pure &amp; fixt, <hi>Reymond Lully</hi> did call</l>
+               <l>His <hi>Baſilisk,</hi> of which he never made ſo plain detection:</l>
+               <l>Pray for me to God, that I may be one of his Election;</l>
+               <l>And that he will for one of his at <hi>Dooms<g ref="char:EOLhyphen"/>day</hi> me ken,</l>
+               <l>And grant me in his Bliſs to Reign with him for ever,</l>
+            </lg>
+            <closer>Amen.</closer>
+         </div>
+         <div type="commentary">
+            <pb n="8" facs="tcp:51301:6"/>
+            <head>A Breviary of <hi>Alchemy;</hi> OR A COMMENTARY UPON Sir <hi>GEORGE RIPLEYS</hi> RECAPITULATION: BEING A Paraphraſtical Epitome of his XII Gates.</head>
+            <div n="1" type="position">
+               <head>Stanza I. Poſition I.</head>
+               <argument>
+                  <p>That the Art is moſt certainly true.</p>
+               </argument>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Hich wittily conceiv'd, thou mayeſt not Work in vain.</hi> Whence obſerve the Truth and Certainty of the Art; ſo Father <hi>Hermes, It is true</hi> (ſaith he,) <hi>without falſhood, certain, and moſt true; That which is above, is like that which is beneath; and that
+<pb n="9" facs="tcp:51301:6"/>
+which is beneath, is like that which is above, to bring about the Miracles of one thing.</hi> So <hi>Treviſan, Flammel, Dionyſ. Zachary,</hi> and others, affirm upon their own Expe<g ref="char:EOLhyphen"/>rience: And ſo this our Author in his Epiſtle to King <hi>Edward;</hi> his Concluſion of the Admonition concerning errone<g ref="char:EOLhyphen"/>ous Experiments, and other places of theſe his <hi>Twelve Gates,</hi> that I need not enlarge on this Subject.</p>
+            </div>
+            <div n="2" type="position">
+               <head>Stanza II. Poſition II.</head>
+               <argument>
+                  <p>Our Work is made of Three Principles.</p>
+               </argument>
+               <p>
+                  <hi>WHere the Red Man and the White Wo<g ref="char:EOLhyphen"/>man are made one, &amp;c.</hi> Thence it is evident, that our Operations are made of Three Principles, yet of one Eſſence; the <hi>Red Man,</hi> the <hi>White Wife,</hi> and the <hi>Spirit of Life:</hi> By the latter, the two former are Eſpouſed or made One. This is that which <hi>Treviſan</hi> calls his One Root, and Two Mercurial Subſtances, crude at their taking, and extracted out of their <hi>Mine<g ref="char:EOLhyphen"/>ra's:</hi> This our Author elſe-where calls his <hi>Trinity</hi> and <hi>Unity;</hi> the <hi>Trinity</hi> reſpect<g ref="char:EOLhyphen"/>ing the Subſtances as they are ſeverall;
+<pb n="10" facs="tcp:51301:7"/>
+the <hi>Unity</hi> reſpecting their Eſſence, which is intirely Homogenial; Therefore it is added, that they live in love and reſt without repugnancy, which could not be were they not Eſſentially and Radically the ſame; For likeneſs of Nature is the Cauſe of Love, and Oneneſs of Eſſence the true ground of Union; among dif<g ref="char:EOLhyphen"/>ferent Subſtances can only be expected Confuſion, if not Deſtruction.</p>
+            </div>
+            <div n="3" type="position">
+               <head>Poſition III.</head>
+               <argument>
+                  <p>Three Subſtances make only Two Natures, <hi>Earth</hi> and <hi>Water.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <hi>EArth and Water equally proportion'd, that is beſt.</hi> Here it is evident, that theſe Three Subſtances make up but Two Natures of <hi>Earth</hi> and <hi>Water:</hi> The Man and Wife are both Bodies or Earths; the one fixed and ripe; the other Volatile and unripe, and by Mixture make a brit<g ref="char:EOLhyphen"/>tle black Hermaphroditical Body or Earth called the <hi>Philoſophers Lead,</hi> as <hi>Ripley</hi> in his <hi>Preface</hi> expreſſeth it. The <hi>White Wo<g ref="char:EOLhyphen"/>man,</hi> or Female, is otherwiſe called the <hi>Moon</hi> by all Philoſophers; and by this
+<pb n="11" facs="tcp:51301:7"/>
+Author in his <hi>Doctrine of Proportions; One of the</hi> Sun, <hi>and Two of the Moon, till altogether like Pap be done.</hi>
+               </p>
+            </div>
+            <div n="4" type="position">
+               <head>Poſition IV.</head>
+               <argument>
+                  <p>From equal <hi>Pondus</hi> of <hi>Earth</hi> and <hi>Water,</hi> Three of <hi>Water</hi> to One of the <hi>Earth</hi> is good, but equal is beſt.</p>
+               </argument>
+               <p>
+                  <hi>THen make the</hi> Mercury <hi>Four to the</hi> Sun, <hi>Two to the</hi> Moon, <hi>&amp;c. as it ſhould be in Figure of the Trinity.</hi> And ſo we come to take notice of the Doctrine of Propor<g ref="char:EOLhyphen"/>tion between the Earth and Water, e<g ref="char:EOLhyphen"/>qual that is beſt; the ſame ſaith our Au<g ref="char:EOLhyphen"/>thor in his Chapter of <hi>Calcination. This is the ſureſt and best proportion,</hi> ſpeaking of equal <hi>Pondus</hi> of <hi>Earth</hi> and <hi>Water;</hi> and gives the Reaſon, becauſe Solution will be ſooner made, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>The more thy</hi> Earth, <hi>the leſs thy</hi> Water <hi>be, The ſooner and better Solution ſhalt thou ſee.</hi>
+               </p>
+               <p>And here he affirms the ſame of <hi>Calci<g ref="char:EOLhyphen"/>nation,</hi> which goes before <hi>Solution.</hi> Yet Three of the Water to One of the Earth, will do well, leſt the Tincture ſhould not
+<pb n="12" facs="tcp:51301:8"/>
+have room to be ſufficiently dilated in the Water, and the Body opened by it; and this is the <hi>Pondus</hi> of <hi>Roger Bacon,</hi> which requires a longer time before the quick be kil'd; and by conſequence, the revi<g ref="char:EOLhyphen"/>ving of the dead muſt be longer in doing; For <hi>Calcination</hi> is nothing elſe, but a kil<g ref="char:EOLhyphen"/>ling the moiſt with the dry; till which be done, there is no reviving of the dry by the moiſt, but they have one and the ſame Operation and Period of time; for one dies not, but the other revives: nor doth the <hi>Dragon</hi> die, but with its Siſter.</p>
+            </div>
+            <div n="5" type="position">
+               <head>Poſition V.</head>
+               <argument>
+                  <p>The <hi>White Wife</hi> in the first Conjunction is to be Three to One of the <hi>Red Man.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <hi>THree of the</hi> Wife, <hi>and one of the</hi> Man <hi>thou take, &amp;c.</hi> From the <hi>Pondus</hi> be<g ref="char:EOLhyphen"/>tween the <hi>Earth</hi> and <hi>Water,</hi> come we to view the Proportion between the <hi>Man</hi> and his <hi>Wife;</hi> Here the <hi>Pondus</hi> is laid down Three to One, and ſo there are Four parts of <hi>Earth</hi> to Four of <hi>Water,</hi> or more, until Twelve; that is, Three of <hi>Water</hi> to One of the <hi>Earth.</hi> This alſo is
+<pb n="13" facs="tcp:51301:8"/>
+clear from the Chapter of <hi>Conjunction,</hi> where the <hi>Woman</hi> is allow'd 15 Veins to 5 of the <hi>Man,</hi> as to the Act of their Foe<g ref="char:EOLhyphen"/>cundity which is interpreted of the firſt <hi>Conjunction</hi> by himſelf, that the <hi>Man</hi> muſt have but 3 of <hi>Water,</hi> and his <hi>Wife</hi> 9, which is 12 of <hi>Water</hi> to 4 of the <hi>Earth;</hi> by which it is evident, that the <hi>Woman</hi> is to exceed her <hi>Husband</hi> in a three-fold Pro<g ref="char:EOLhyphen"/>portion.</p>
+               <p>
+                  <hi>Or Two to One after</hi> Reymund: <hi>Or Four to One according to</hi> Alanus; <hi>but Three to One is beſt.</hi>
+               </p>
+               <p>However, in <hi>Reymind's Doctrine of Proportions</hi> cited by our Author in his <hi>Gate of Calcination,</hi> One of the <hi>Sun</hi> is joyn'd with Two of the <hi>Moon,</hi> which make Three of the Body; and to theſe are added Four of <hi>Mercury,</hi> which is One more of the Spiritual than of the Corpo<g ref="char:EOLhyphen"/>ral part; and this the Author compares to <hi>Trinity</hi> and <hi>Unity,</hi> both are good; Yea, and <hi>Alanus</hi> preſcribes Four parts to One, which may be done, but Three to One is beſt and equal <hi>Pondus</hi> of <hi>Spirit</hi> and <hi>Life,</hi> for compleating of the Marriage between this Royal Pair, the <hi>Sun</hi> the <hi>Husband,</hi> and the <hi>Moon</hi> the Wife: Of this ſpeaks this
+<pb n="14" facs="tcp:51301:9"/>
+Author in his <hi>Gate of Solution;</hi> One in Gender they be, but in Number not ſo; The Father is the <hi>Sun,</hi> and the <hi>Moon</hi> the Mother, the Mover is <hi>Mercury.</hi>
+               </p>
+               <p>This Compound according to its vari<g ref="char:EOLhyphen"/>ous Conſiderations, hath many Relations, and as many Denominations; <hi>Sun</hi> and <hi>Moon, Man</hi> and <hi>Wife, Body, Soul</hi> and <hi>Spirit, Earth</hi> and <hi>Water, Siſter</hi> and <hi>Bro<g ref="char:EOLhyphen"/>ther, Mother</hi> and <hi>Son,</hi> with many others; but its Proper Name is <hi>Magneſia.</hi>
+               </p>
+               <p>Queſt. <hi>What is the Red Man? what his White Wife? What the Spirit of Life?</hi>
+               </p>
+               <p>It may be here queſtioned, what this <hi>Red Man</hi> is? what his <hi>White Wife?</hi> and what the <hi>Spirit of Life?</hi> for that is the only knot in underſtanding the Writings of Philoſophers, whoſe various Expreſſi<g ref="char:EOLhyphen"/>ons, and ſeeming Contradictions herein, do obſcure the Art wonderfully: Yet however they ſeem to differ in their Writings, they mean all one thing, if well or rightly underſtood.</p>
+               <p>Anſwer <hi>1ſt. What the</hi> Red Man <hi>is?</hi>
+               </p>
+               <p>The <hi>Red Man</hi> betokens the perfect Body of the <hi>Sun,</hi> or his Shadow the <hi>Moon;</hi> For <hi>Lune</hi> the <hi>Body,</hi> which is one of the Seven, is a Male, and a perfect Bo<g ref="char:EOLhyphen"/>dy,
+<pb n="15" facs="tcp:51301:9"/>
+and fixed, only wants a little Dige<g ref="char:EOLhyphen"/>ſtion; and therefore the Red is hid under its viſible White, as White is hid under the viſible Red of <hi>Sol:</hi> Therefore our Author in his Work of <hi>Albification,</hi> ſaith, that the Sun appeareth White and Bright: And <hi>Treviſan</hi> ſaith, our King, who is cloa<g ref="char:EOLhyphen"/>thed in Garments of pure Gold, after he is once in the Bath, appears no more till after <hi>one hundred and thirty days;</hi> and then he appears White, and wonderfully bright and ſhining. And an old Philo<g ref="char:EOLhyphen"/>ſopher ſaith, <hi>Honour our King at his return from the Eaſt in Glory and admirable bright whiteneſs.</hi> Therefore ſaith <hi>Artefius, Our Water is of kin to the perfect Bodies, to the Sun, and to the Moon; but more to the Sun then to the Moon;</hi> (Note this well.) And in all his Books he joyns the Sun and Moon the perfect Bodies Gold and Silver for the work. So doth <hi>Ripley,</hi> and ſo all Philoſophers; by which it is evident, that either of the perfect Metals or Luminaries with our <hi>Aqua Vitoe,</hi> will compleat the work; as <hi>Arnold</hi> expreſsly ſaith in his <hi>Queſtions &amp; Anſwers</hi> to <hi>Boniface;</hi> and <hi>Jodocus Cre<g ref="char:EOLhyphen"/>verus</hi>
+                  <pb n="16" facs="tcp:51301:10"/>
+in his Treatiſe, confirms the ſame in theſe words; <hi>If ſo be</hi> (ſaith he) <hi>thou be ſo poor that thou canſt not take Gold, then take ſo much Silver; yet Gold is the better, as be<g ref="char:EOLhyphen"/>ing nearer of kin to our Water and</hi> Mercury.</p>
+               <p>Anſwer 2. <hi>What is the</hi> White Wife?</p>
+               <p>
+                  <hi>Secondly,</hi> The <hi>White Wife,</hi> otherwiſe called the <hi>Moon,</hi> is a Female; it is a Co<g ref="char:EOLhyphen"/>agulated <hi>Mercury,</hi> but not fixt: A ſpiri<g ref="char:EOLhyphen"/>tual Body, fluxible in nature of a Body, yet Volatile, in nature of a Spirit; It is called therefore <hi>Mercury of the Philoſo<g ref="char:EOLhyphen"/>phers;</hi> Our <hi>Green Lyon;</hi> Our <hi>immature or unripe Gold:</hi> It is <hi>Pontanus's Fire, Ar<g ref="char:EOLhyphen"/>tephius's middle ſubſtance,</hi> clear like pure Silver, which ought to receive the Tin<g ref="char:EOLhyphen"/>ctures of the Sun and Moon, his <hi>ſharp Vineger,</hi> his <hi>Antimonial-Saturnine-Mercu<g ref="char:EOLhyphen"/>rial</hi> Argent Vive, without which <hi>Laton</hi> cannot be whitened; of which an old Philoſopher ſaith, whiten the red <hi>Laton,</hi> by a white, tepid, and ſuffocated Water; of which teſtimony <hi>Treviſanus</hi> affirms, that nothing could be ſaid better or clearer. This is that which is intimated in the Vi<g ref="char:EOLhyphen"/>ſion of <hi>Ariſlaus,</hi> who found a People that were Married, yet had no Children, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="17" facs="tcp:51301:10"/>
+they married two Males together: Such are they who mix <hi>Sol</hi> and <hi>Lune,</hi> both Corporal and fixt together, whom the Spirit will never revive, becauſe there is not conjugal Love. Joyn therefore <hi>Ga<g ref="char:EOLhyphen"/>britius</hi> to his beloved Siſter <hi>Beya,</hi> which is a tender Damſel, and ſtraight-way <hi>Ga<g ref="char:EOLhyphen"/>britius</hi> will die; that is, will loſe what he was; and from that place where he ap<g ref="char:EOLhyphen"/>peared to have loſt what he was, he ſhall appear what he was not before.</p>
+               <p>Anſw. 3. <hi>What is the Spirit of Life?</hi>
+               </p>
+               <p>Thirdly, The <hi>Spirit of Life</hi> is <hi>Mercury;</hi> The Mover ſaith this Author is <hi>Mercury,</hi> with which the Stone is to be multiplyed when it is made: And it muſt be true <hi>Mineral Mercury,</hi> without any forreign mixture, as <hi>Arnold</hi> reſolves expreſsly in his Anſwer to <hi>Boniface:</hi> And ſo <hi>Ripley</hi> ſaith, ſome can multiply <hi>Mercury</hi> with <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> and other ſubſtances, which we de<g ref="char:EOLhyphen"/>fie; Diſtil it therefore till it be clean, <hi>&amp;c:</hi> It moreover muſt have all the proporti<g ref="char:EOLhyphen"/>ons of <hi>Mercury</hi> its ponderoſity, otherwiſe it could not be Metalline; its Humidity, otherwiſe the Feminine Sperm would be deficient, and its ſiccity, not to wet the
+<pb n="18" facs="tcp:51301:11"/>
+hand; which it can no ſooner loſe by Corroſives or otherwiſe; but it ſtraight<g ref="char:EOLhyphen"/>way loſeth its firſt Mineral Proportion, and ſo is no longer an Ingredient of our true Tincture.</p>
+            </div>
+            <div n="6" type="position">
+               <head>Poſition VI.</head>
+               <argument>
+                  <p>As the West Latitude is the entrance, ſo in the North is the firſt alteration.</p>
+               </argument>
+               <p>
+                  <hi>PRoceed then forth to the North by obſcu<g ref="char:EOLhyphen"/>ration, &amp;c. Looſing them, and alter<g ref="char:EOLhyphen"/>ing them, &amp;c.</hi> The Materials being found, and mixt according to the Proportions taught before, is called the <hi>Weſt Latitude;</hi> becauſe in it the Sun ſets, and afterwards appears no more in his Red Robes, till he firſt be cloathed with a White glittering Robe, and be Crowned with a very bright Oriental Diadem. Now the progreſs into the <hi>North,</hi> is a diſcovery of the Profun<g ref="char:EOLhyphen"/>dity of the Stone, and is compared to the Winter, which is in the North, (chiefly) long, tedious, cold and ſlabbery; ſo will it be in this Work; the Signs are <hi>Capri<g ref="char:EOLhyphen"/>corn, Piſces,</hi> and <hi>Aquarius;</hi> In this there
+<pb n="19" facs="tcp:51301:11"/>
+is a retrogradation of <hi>Sol</hi> into its firſt mat<g ref="char:EOLhyphen"/>ter, in which alteration the old Form dies, the Matter rots and putrifies; and is after renewed in the Eaſt.</p>
+               <p>
+                  <hi>This Operation</hi> (ſaith <hi>Flammel) is not perfected in leſs then Five Months; and the Colours of the Compound are dark, obſcure, wateriſh, and at length black like Pitch; in which blackneſs the Body is rotted into Atoms; which intire blackneſs, and height of corruption laſts but 2 or 3 days;</hi> and there<g ref="char:EOLhyphen"/>fore ſaith <hi>Ripley</hi> in his Epiſtle, <hi>the third day he ſhall ariſe;</hi> the ſame ſaith <hi>Daſtin</hi> in his <hi>Roſary,</hi> where he allows four days for Pu<g ref="char:EOLhyphen"/>trefaction: The ſame ſaith <hi>Efferarius</hi> the Monk in his intire Treatiſe publiſhed with <hi>Daſtin;</hi> However, the whole time of blackneſs, in coming, continuing, and go<g ref="char:EOLhyphen"/>ing away, is 150 days, although the Sun begins to appear in 130 days, if you work aright. This I have added for the ſake of many who expect black of the blackeſt in 40 or 50 dayes, miſtaking <hi>Flammel</hi> herein; who ſaith, the colour muſt be black of the blackeſt, and like to the co<g ref="char:EOLhyphen"/>lour of the <hi>Dragons</hi> in 40 days, which <hi>Dragons</hi> were blackiſh, blewiſh, and yel<g ref="char:EOLhyphen"/>lowiſh,
+<pb n="20" facs="tcp:51301:12"/>
+which colours ſhew that the Mat<g ref="char:EOLhyphen"/>ter begins to rot into Atoms; which rot<g ref="char:EOLhyphen"/>tenneſs is not perfected in leſs than 150 days. (ſo as to let the <hi>Sun</hi> appear with its Rays;) Firſt in a ſmall Circle of Heir of a whitiſh Citrine; which increaſeth, and changeth hue day by day, till whiteneſs be fully compleated.</p>
+            </div>
+            <div n="7" type="position">
+               <head>Poſition VII.</head>
+               <argument>
+                  <p>The Eaſt denoting Whiteneſs, is the begin<g ref="char:EOLhyphen"/>ning of the Stones Altitude.</p>
+               </argument>
+               <p>
+                  <hi>THence by Colours many into the Eaſt aſ<g ref="char:EOLhyphen"/>cend, &amp;c.</hi> In the Work are three Di<g ref="char:EOLhyphen"/>menſions; Altitude, Latitude, and Pro<g ref="char:EOLhyphen"/>fundity: The Altitude is the Perfection of the Bodies which is Inchoate in White<g ref="char:EOLhyphen"/>neſs, and compleat in Redneſs. The Pro<g ref="char:EOLhyphen"/>fundity is the firſt Matter into which they are reſolved; For Multiplication and the Latitude is the means through which it paſſeth from its Perfection to be abaſed; and from its abaſement to its Glorifica<g ref="char:EOLhyphen"/>tion.</p>
+               <p>In this paſſage are infinite gay colours
+<pb n="21" facs="tcp:51301:12"/>
+like unto thoſe as appeared before Black<g ref="char:EOLhyphen"/>neſs, but more glorious; For note, the Stone hath but three colours, Black, White and Red: In the firſt when compleated, it ſtays three, or four days at moſt; in the ſecond as long; in the laſt it repoſeth it ſelf for ever, between theſe Periods as the Matter is moiſter or dryer, purer or im<g ref="char:EOLhyphen"/>purer, many intermediate colours appear, more then can be numbred; But Two, <hi>(viz.)</hi> Green and Yellow, are of long continuance, before the White and the Red: But many colours appear between the beginning of that Work, and the firſt colour of Blackneſs: And although ſeve<g ref="char:EOLhyphen"/>ral colours appear, yet are they dark, foggy, and foul coloured; by which it appears, that Blackneſs is the predomi<g ref="char:EOLhyphen"/>nant, which for a ſpace will appear like the <hi>Aegyptian darkneſs,</hi> and is much about the ſame continuance: ſo between Black<g ref="char:EOLhyphen"/>neſs and the White, although infinite co<g ref="char:EOLhyphen"/>lours appear; yet the <hi>Baſis</hi> of them be<g ref="char:EOLhyphen"/>ing Whiteneſs, they are bright, and very glorious, which being only tranſient, paſs, and go, and others come in their place, until the White be perfected.</p>
+            </div>
+            <div n="8" type="position">
+               <pb n="22" facs="tcp:51301:13"/>
+               <head>Poſition VIII.</head>
+               <argument>
+                  <p>The South or Redneſs is the complement of this Mastery.</p>
+               </argument>
+               <p>
+                  <hi>OF this courſe in the South the Sun ma<g ref="char:EOLhyphen"/>keth Conſummation.</hi> After the White, the Fire being continued, the Compound will become Azure, Gray, and then Ci<g ref="char:EOLhyphen"/>trine, which will laſt a long time; and at laſt end in a bloody Redneſs.</p>
+            </div>
+            <div n="9" type="position">
+               <head>Poſition IX.</head>
+               <argument>
+                  <p>He that ſuppoſeth his Work ended when the Stone is brought to its redneſs, is miſtaken.</p>
+               </argument>
+               <p>
+                  <hi>BUt yet again Two times turn about thy Wheel,</hi> &amp;c. The Stone being by con<g ref="char:EOLhyphen"/>ſtant and long Decoction brought to this paſs; he who thinketh the race quite run, reckons without his Hoſt, and muſt reckon again: It is Medicine of the firſt Order, and muſt be brought to the third Order by Imbibitions and Cibation, which is a ſecond turning round the Wheel; and by
+<pb n="23" facs="tcp:51301:13"/>
+Fermentation, which is a third turning round the Wheel, and brings the Medi<g ref="char:EOLhyphen"/>cine to the third Order, and makes it then fit for Projection, which at firſt it is not; For till the Medicine will flow like Wax, it cannot enter <hi>Mercury</hi> before its flight; but the Powder as it is made at firſt, is like Grains or Atoms, and is congealed in a far greater heat, then will make ☿ to fume, yet it abides in its form of Duſt or Powder, which muſt be otherwiſe before it be fit<g ref="char:EOLhyphen"/>ted for Projection; therefore the Stone tingeth <hi>Mercury</hi> into a Metalline Maſs in the twinkling of an eye, as our Author ſaith in his Preface, even as the <hi>Baſilisk</hi> kills by ſight: But the Red <hi>Sulphur</hi> con<g ref="char:EOLhyphen"/>verteth <hi>Mercury</hi> by a digeſtion of time in<g ref="char:EOLhyphen"/>to its own Nature, <hi>(viz.)</hi> Powder, if it be joyn'd in a due proportion, and digeſt<g ref="char:EOLhyphen"/>ed in a due heat: Therefore ſaith our Author, if you give it too much, it muſt have a Vomit, or it will be ſick too long, but the Stone will never part with any <hi>Mercury</hi> that is joyned to it in heat; our <hi>Sulphur</hi> then is a Royal Infant, which doth both hunger and thirſt; and if you can but be a Nurſe to it as you ought, it will
+<pb n="24" facs="tcp:51301:14"/>
+repay both your Pains and coſt: Leave not then where you ſhould begin; but go on till you bring it to the third Order, which <hi>Reymond</hi> calls his Oyls and Un<g ref="char:EOLhyphen"/>guents; and ſo our Author likewiſe.</p>
+               <p>Three Properties there are in which the White and Red <hi>Sulphurs</hi> of the firſt Order, differ from thoſe of the third Or<g ref="char:EOLhyphen"/>der.</p>
+               <p>One flows as eaſily as any Wax in heat, or on a hot Metal: the other in a ſtrong heat abides a Powder.</p>
+               <p>The one is like to Glaſs, brittle, pon<g ref="char:EOLhyphen"/>derous and ſhining; the other a powder like to Atoms.</p>
+               <p>The one enters <hi>Mercury</hi> like an Oyl, and Coagulates it in an inſtant: the other drinks up <hi>Mercury</hi> only, as the Calx of a Metal would do, but will not retain it, if the Fire be increaſed ſtrong, nor turn it into Metal; but if the heat and proportion be both as they ought, by a digeſtion of Time, it turns it into its own Nature: And ſo, (as <hi>Ripley</hi> ſaith truly,) you may Multiply both White and Red with <hi>Mer<g ref="char:EOLhyphen"/>cury;</hi> That if at firſt you had not enough to fill a ſpoon, yet in ſhort time you may
+<pb n="25" facs="tcp:51301:14"/>
+be ſtored for your whole life, were it ten times as long as it is like to be.</p>
+            </div>
+            <div n="10" type="position">
+               <head>Poſition X.</head>
+               <argument>
+                  <p>Our Stone muſt have a Specification to Me<g ref="char:EOLhyphen"/>tals before it will Project.</p>
+               </argument>
+               <p>
+                  <hi>OUr Red Man teyneth not until he teyned be,</hi> &amp;c. Our <hi>Red Man</hi> or King muſt be teyned by Ferment, before it will tinge imperfect Metals: the Ferments are only <hi>Sol</hi> and <hi>Luna,</hi> the Proportion a fourth part to the Compound let the <hi>Sulphurs</hi> be, and three parts of <hi>Sol</hi> or <hi>Luna</hi> according as the <hi>Sulphur</hi> is: or four parts <hi>Sol</hi> and <hi>Luna,</hi> and the <hi>Sulphur</hi> a fifth part; then with <hi>Mercury</hi> digeſt and putrifie your Fer<g ref="char:EOLhyphen"/>ment, and congeal it, and again Ferment it, till it flow like Wax or Oyl; then will that Oyl fix <hi>Mercury,</hi> and turn any Metal into Perfection; which you may then Multiply at your pleaſure, or you may multiply it before Fermentation: Then take the perfect Stone for your Body, and mix him with the White Wife in propor<g ref="char:EOLhyphen"/>tion as at firſt, and add the Spirit of Life,
+<pb n="26" facs="tcp:51301:15"/>
+as at firſt, and digeſt it till it paſs the three colours, Black, White, and Red.</p>
+               <p>Thus doth our Author conclude his Erroneous Experiments alſo: <hi>I never ſaw true work but one,</hi> ſaith he. One he did, but it was after infinite Errours, and other work no Philoſopher ever yet ſaw, which he briefly deſcribes.</p>
+               <p>
+                  <hi>Remember Man the moſt Noble Creature,</hi> &amp;c. that is Gold; It is an errour to write it, (Remember that Man is the moſt Noble Creature of Earthly Compoſition;) For Man is not of Earthly Compoſition, but Stones, Metals, and Clays, <hi>&amp;c.</hi> are. Now becauſe we ſeek the Nobleſt of Creatures of Earthly Compoſition, we muſt be ſo wiſe as to take it for our Principle: For as he ſaith elſe-where; <hi>as Fire of burning the Principle is, ſo the Principle of Gilding is Gold I wis.</hi> In this nobleſt Creature he ſaith, are the four Elements proportioned by nature, which makes it incombuſti<g ref="char:EOLhyphen"/>ble, for were any predominant, it would not abide; but as <hi>Treviſan</hi> ſaith, the Ana<g ref="char:EOLhyphen"/>tical proportioning the Elements in a me<g ref="char:EOLhyphen"/>talline matter, is the very form of Gold: or that rather which gives it its form. He
+<pb n="27" facs="tcp:51301:15"/>
+adds a natural Mercuriality, which coſteth right nought; that is a pure, ſincere Mi<g ref="char:EOLhyphen"/>neral Water: without adulteration, not Artificial out of <hi>Saturn, Jupiter,</hi> &amp;c. But natural not a dear <hi>Mercury:</hi> but that which is common and cheap. He adds one of his <hi>Minera's</hi> by Art is brought, that is our green <hi>Lyon,</hi> for with our firſt Menſtrue, we Calcine only perfect bodies; but none which are unclean, except one, which is uſually call'd by Philoſophers the <hi>Lyon-Green,</hi> into this the clearneſs of the Sun, or of the Moon, ſecretly deſcends: that is, by this the Mercuriality, or pro<g ref="char:EOLhyphen"/>fundity of the Sun and Moon are mani<g ref="char:EOLhyphen"/>feſted by exuberation, but is hidden from ſight a long time; till after putrefaction, it exuberates and appears openly, bleed<g ref="char:EOLhyphen"/>ing and changing colours, and at firſt be<g ref="char:EOLhyphen"/>ing cloathed in a glorious Green: of which ſaith the Roſary, O happy Green<g ref="char:EOLhyphen"/>neſs, without which nothing can ſpring? This exuberate-<hi>Mercury</hi> is our hidden Stone, that is, Potentially, for when that appears; repugnant natures are tyed to Unity, that is our <hi>Green-Lyon,</hi> or <hi>Mi<g ref="char:EOLhyphen"/>nera,</hi> or vegetable humidity, or Mercuria<g ref="char:EOLhyphen"/>lity
+<pb n="28" facs="tcp:51301:16"/>
+natural, which coſteth right naught, or our firſt Menſtrue, and the nobleſt Creature of Earthly compoſition, which is either the Sun, or Moon, but eſpecially the Sun: In each of which the Mercu<g ref="char:EOLhyphen"/>riality is inviſible, and appears not to ſight; but by effect, that is, in the quali<g ref="char:EOLhyphen"/>ty of clearneſs, with Whiteneſs in one, and with redneſs in the other, theſe three being United, the <hi>Mercury</hi> of the Sun exuberates and appears at firſt green, then is the Eclipſe near, and the Northern progreſs, the proceſs after all this is ſhort; this one thing putrifies, then waſh him in his own broth, till he become White, then Ferment him wiſely; there is the beginning, middle and end. <hi>Glory be to God.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:51301:16"/>
+            <head>Theſe Books are Printed lately for <hi>William Cooper</hi> at the <hi>Pellican</hi> in <hi>Little-Britain,</hi> London.</head>
+            <list>
+               <item>THe <hi>Philoſophical Epitaph in Hie<g ref="char:EOLhyphen"/>roglyphical Figures.—</hi>8<hi rend="sup">o</hi>
+               </item>
+               <item>
+                  <hi>A Brief of the Golden Calf the Miracle of Nature.—</hi>8<hi rend="sup">o</hi>
+               </item>
+               <item>Glauber's Golden Aſs, <hi>to get Gold from Stones, Sand,</hi> &amp;c.—8<hi rend="sup">o</hi>
+               </item>
+               <item>Jehior, <hi>the Three Principles or Origi<g ref="char:EOLhyphen"/>nal of all things.—</hi>8<hi rend="sup">o</hi>
+               </item>
+               <item>
+                  <hi>A Catalogue of Chymical Books in</hi> 3 <hi>parts.</hi>—8<hi rend="sup">o</hi>
+               </item>
+               <item>Simpſon'<hi>s Philoſophical Diſcourſe of Fermentation.</hi> 8<hi rend="sup">o</hi>—</item>
+               <item>Aeyrenaeus Philalethes'<hi>s Secrets Re<g ref="char:EOLhyphen"/>veal'd;</hi> Or <hi>the Shut Pallace open'd.</hi> 8<hi rend="sup">o</hi>—</item>
+               <item>—His <hi>Expoſition upon Sir</hi> G. Ripley's <hi>Epistle to K.</hi> Ed. IV. 8<hi rend="sup">o</hi>—</item>
+               <item>—Upon <hi>Sir</hi> G. Ripley'<hi>s Recapitu<g ref="char:EOLhyphen"/>lation.</hi> 8<hi rend="sup">o</hi>—</item>
+            </list>
+            <list>
+               <head>Theſe are Printing.</head>
+               <item>Aeyr. Philalethes <hi>his Expoſition upon Sir G.</hi> Ripley'<hi>s Viſion.</hi> 8<hi rend="sup">o</hi>—</item>
+               <item>—Upon <hi>Sir</hi> G. Ripley'<hi>s Preface.</hi> 8<hi rend="sup">o</hi>
+               </item>
+               <item>—Upon <hi>Sir</hi> G. Ripley'<hi>s firſt</hi> 6 <hi>Gates.</hi> 8<hi rend="sup">o</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
